@@ -1,4 +1,4 @@
-image: /home/rumaisa/catkin_ws/src/quad_sim/quadcopter_mapping/maps/map-10-8.pgm
+image: /home/aleena/catkin_ws/src/quad_sim/quadcopter_mapping/maps/map-10-8.pgm
 resolution: 0.050000
 origin: [-10.329190, -10.095584, 0.000000]
 negate: 0

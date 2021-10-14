@@ -1,4 +1,4 @@
-image: /home/rumaisa/catkin_ws/src/quad_sim/quadcopter_mapping/maps/cartographer_teleop_final.pgm
+image: /home/aleena/catkin_ws/src/quad_sim/quadcopter_mapping/maps/cartographer_teleop_final.pgm
 resolution: 0.050000
 origin: [-39.847729, -35.448773, 0.000000]
 negate: 0

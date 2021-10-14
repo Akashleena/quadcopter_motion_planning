@@ -1,0 +1,12 @@
+installing ceres solver
+lua>=5.2
+libluabind-dev
+Error on doing roslaunch quadcopter_exploration quadcopter_exploration.launch
+
+Warning: Invalid argument "/world" passed to canTransform argument target_frame in tf2 frame_ids cannot start with a '/' like: 
+         at line 134 in /tmp/binarydeb/ros-noetic-tf2-0.7.5/src/buffer_core.cpp
+
+FIXES: 
+these issues arise from the fact that support for tf_prefix was dropped in noetic
+https://github.com/open-rmf/free_fleet/issues/60
+
