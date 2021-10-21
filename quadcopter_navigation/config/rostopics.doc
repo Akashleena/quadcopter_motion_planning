@@ -1,0 +1,8 @@
+base local planner
+
+odometry------->base_local_planner-----> velocity commands to mobile base
+                   /^
+sensor streams ___/
+
+This library calculates the path around the objects and then sends velocity commands back to the flight controller.
+
